@@ -7,4 +7,3 @@
 test
 aaa
 テスト
-よa
